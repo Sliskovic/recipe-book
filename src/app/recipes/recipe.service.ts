@@ -17,7 +17,7 @@ export class RecipeService {
     new Recipe(
       "Big Fat Burger",
       "What else you need to say?",
-      "https://kbr.com.pk/wp-content/uploads/2020/08/burger.jpg",
+      "https://www.thespruceeats.com/thmb/ad4-cZdHW0fHWDn_JSuh3FTjLag=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/garlic-burger-patties-333503-hero-01-e4df660ff27b4e5194fdff6d703a4f83.jpg",
       [new Ingredient("Buns", 2), new Ingredient("Meat", 1)]
     ),
   ];
